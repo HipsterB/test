@@ -1,7 +1,5 @@
-var a = '#'
-var n = 10
-
-console.log(a);
+var a = '';
+var n = 10;
 
 for (var i = 0; i < n; i++) {
     a += '#';
